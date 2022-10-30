@@ -56,10 +56,14 @@ Other dependencies (Use pip to install them):
 
 
 Main Menu:
-Pic
+![Menu](https://github.com/Nabildexter/CSC482B)/MainMenuSample.jpg?raw=true)
 
 Sample Input:
-Pic
+![Input](https://github.com/Nabildexter/CSC482B)/MainMenuOptions.jpg?raw=true)
+![Input](https://github.com/Nabildexter/CSC482B)/ChooseInput.jpg?raw=true)
+![Input](https://github.com/Nabildexter/CSC482B)/SampleInput.jpg?raw=true)
+
 
 Sample Outputs:
-Pic
+![Output](https://github.com/Nabildexter/CSC482B)/Output1.jpg?raw=true)
+![Output](https://github.com/Nabildexter/CSC482B)/Output2.jpg?raw=true)
