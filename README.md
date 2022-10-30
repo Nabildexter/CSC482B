@@ -63,7 +63,7 @@ Sample Input
 ------------------------------------------------
 ![Input](https://github.com/Nabildexter/CSC482B/blob/main/MainMenuOptions.jpg?raw=true)
 ![Input](https://github.com/Nabildexter/CSC482B/blob/main/ChooseInput.jpg?raw=true)
-![Input](hhttps://github.com/Nabildexter/CSC482B/blob/main/SampleInput.jpg?raw=true)
+![Input](https://github.com/Nabildexter/CSC482B/blob/main/SampleInput.jpg?raw=true)
 
 
 Sample Outputs
